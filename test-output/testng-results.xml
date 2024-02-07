@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="48215" started-at="2024-02-05T12:33:52Z" finished-at="2024-02-05T12:34:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="48215" started-at="2024-02-05T12:33:52Z" finished-at="2024-02-05T12:34:40Z">
+      <class name="G.test">
+        <test-method status="PASS" signature="navigate_to_loginpage()[pri:1, instance:G.test@598067a5]" name="navigate_to_loginpage" duration-ms="9932" started-at="2024-02-05T18:03:52Z" finished-at="2024-02-05T18:04:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate_to_loginpage -->
+        <test-method status="PASS" signature="Verify_product_page()[pri:2, instance:G.test@598067a5]" name="Verify_product_page" duration-ms="31955" started-at="2024-02-05T18:04:02Z" finished-at="2024-02-05T18:04:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_product_page -->
+        <test-method status="PASS" signature="Verify_product_details_page()[pri:3, instance:G.test@598067a5]" name="Verify_product_details_page" duration-ms="3466" started-at="2024-02-05T18:04:34Z" finished-at="2024-02-05T18:04:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_product_details_page -->
+        <test-method status="PASS" signature="click_on_checkout_button()[pri:4, instance:G.test@598067a5]" name="click_on_checkout_button" duration-ms="634" started-at="2024-02-05T18:04:37Z" finished-at="2024-02-05T18:04:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click_on_checkout_button -->
+        <test-method status="PASS" signature="Enter_details()[pri:5, instance:G.test@598067a5]" name="Enter_details" duration-ms="997" started-at="2024-02-05T18:04:38Z" finished-at="2024-02-05T18:04:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Enter_details -->
+        <test-method status="PASS" signature="Click_on_finish()[pri:6, instance:G.test@598067a5]" name="Click_on_finish" duration-ms="1109" started-at="2024-02-05T18:04:39Z" finished-at="2024-02-05T18:04:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Click_on_finish -->
+        <test-method status="PASS" signature="Verify_Thank_you_for_your_order_Message()[pri:7, instance:G.test@598067a5]" name="Verify_Thank_you_for_your_order_Message" duration-ms="59" started-at="2024-02-05T18:04:40Z" finished-at="2024-02-05T18:04:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_Thank_you_for_your_order_Message -->
+      </class> <!-- G.test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
